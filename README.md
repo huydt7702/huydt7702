@@ -1,4 +1,6 @@
-<img alt="Coding" width="100%" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952992yoc7gfgk3xryio0fay7f1g1r2dwbx38kch72b&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<a href="#" target="_blank">
+  <img src="svg/huydt7702.svg" width="1200" alt="Huy Nguyen" />
+</a>
 
 <h1 align="center">Hi 👋, I'm Nguyen Van Huy</h1>
 <h3 align="center">A passionate Frontend Developer from Vietnam</h3>
