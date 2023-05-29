@@ -1,4 +1,4 @@
-<img alt="Intro" width="100%" src="https://media.tenor.com/DtvSGLjw8MAAAAAd/zenitsu-agatsuma-demon-slayer.gif">
+<img alt="Intro" width="100%" src="https://media.tenor.com/pYog_ZRX3_EAAAAd/demon-slayer-kimetsu-no-yaiba.gif">
 
 <h1 align="center">Hi 👋, I'm Nguyen Van Huy</h1>
 <h3 align="center">A passionate Frontend Developer from Vietnam</h3>
