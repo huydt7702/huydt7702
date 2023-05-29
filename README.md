@@ -1,6 +1,4 @@
-<a href="#" target="_blank">
-  <img src="svg/huydt7702.svg" width="1200" alt="Huy Nguyen" />
-</a>
+<img src="https://usagif.com/wp-content/uploads/2022/fzk5d/demon-slayer-anime-acegif-67.gif" width="100%" alt="Huy Nguyen" />
 
 <h1 align="center">Hi 👋, I'm Nguyen Van Huy</h1>
 <h3 align="center">A passionate Frontend Developer from Vietnam</h3>
