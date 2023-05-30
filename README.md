@@ -1,7 +1,4 @@
-<img
-alt="Intro"
-width="100%"
-src="https://usagif.com/wp-content/uploads/2022/fzk5ddemon-slayer-anime-acegif-67.gif">
+<img alt="Intro" width="100%" src="https://usagif.com/wp-content/uploads/2022/fzk5d/demon-slayer-anime-acegif-67.gif">
 
 <h1 align="center">Hi 👋, I'm Nguyen Van Huy</h1>
 <h3 align="center">A passionate Frontend Developer from Vietnam</h3>
