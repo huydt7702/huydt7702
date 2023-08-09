@@ -1,4 +1,4 @@
-<img alt="Intro" width="100%" src="https://thumbs.gfycat.com/ChiefWaryDolphin-size_restricted.gif">
+<img alt="Intro" width="100%" src="https://media.tenor.com/qWE7jbP-4TQAAAAd/nezuko-tanjiro.gif">
 
 <h1 align="center">Hi 👋, I'm Nguyen Van Huy</h1>
 <h3 align="center">A passionate Frontend Developer from Vietnam</h3>
