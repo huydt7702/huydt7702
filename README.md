@@ -1,5 +1,4 @@
-<img alt="Intro" width="100%" src="https://i.pinimg.com/originals/8d/7b/c2/8d7bc2db1b28845e48bf025a3fedb471.gif">
-<!-- <img alt="Intro" width="100%" src="https://media.tenor.com/qWE7jbP-4TQAAAAd/nezuko-tanjiro.gif"> -->
+<img alt="Intro" width="100%" src="https://media.tenor.com/qWE7jbP-4TQAAAAd/nezuko-tanjiro.gif">
 
 <h1 align="center">Hi 👋, I'm Nguyen Van Huy</h1>
 <h3 align="center">A passionate Frontend Developer from Vietnam</h3>
