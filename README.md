@@ -6,18 +6,14 @@
 
 --- 
 
-<h1 align="center">🌐 Socials</h1>
+<h2 align="center">🌐 Socials</h2>
 <div align="center">
-
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/huydt772)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/huydt7702)
-
 </div>
 
-## 💻 Tech Stack:
-
+<h2 align="center">💻 Tech Stack</h2>
 <div align="center">
-
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -27,11 +23,9 @@
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-  
 </div>
 
-## 📊 GitHub Stats:
-
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huydt7702&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
     <br/>  
