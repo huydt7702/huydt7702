@@ -4,7 +4,8 @@
 <h3 align="center">A passionate Frontend Developer from Vietnam</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huydt7702&label=Profile%20views&color=0e75b6&style=flat" alt="huydt7702" /> </p>
 
-## 🌐 Socials:
+--- 
+
 <h1 align="center">🌐 Socials</h1>
 <div align="center">
 
