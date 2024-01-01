@@ -17,16 +17,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=huydt7702&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=huydt7702&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-## 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=huydt7702&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huydt7702&label=Profile%20views&color=0e75b6&style=flat" alt="huydt7702" /> </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
