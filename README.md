@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nguyen Van Huy</h1>
 <h3 align="center">A passionate Frontend Developer from Vietnam</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=huydt7702&label=Profile%20views&color=0e75b6&style=flat" alt="huydt7702" /> </p>
 
 ## 🌐 Socials:
 
@@ -18,5 +19,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=huydt7702&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huydt7702&label=Profile%20views&color=0e75b6&style=flat" alt="huydt7702" /> </p>
