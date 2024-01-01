@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huydt7702&label=Profile%20views&color=0e75b6&style=flat" alt="huydt7702" /> </p>
 
 ## 🌐 Socials:
-
+<h1 align="center">🌐 Socials</h1>
 <div align="center">
 
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/huydt772)
