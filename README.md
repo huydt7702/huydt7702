@@ -1,4 +1,4 @@
-<img alt="Intro" width="100%" src="https://www.gifcen.com/wp-content/uploads/2023/09/demon-slayer-gif.gif">
+<img alt="Intro" width="100%" src="https://i.imgur.com/uT0eDMC.gif">
 
 <h1 align="center">Hi 👋, I'm Nguyen Van Huy</h1>
 <h3 align="center">A passionate Frontend Developer from Vietnam</h3>
