@@ -1,4 +1,4 @@
-<img alt="Intro" width="100%" src="https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/7/70/Muichiro_uses_Sea_of_Clouds_and_Haze_to_slice_up_Gyokko%27s_tentacles.gif/revision/latest?cb=20230529012108">
+<img alt="Intro" width="100%" src="https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/7/7c/Muichiro_evades_and_beheads_Gyokko.gif/revision/latest?cb=20230604185359">
 
 <h1 align="center">Hi 👋, I'm Nguyen Van Huy</h1>
 <h3 align="center">A passionate Frontend Developer from Vietnam</h3>
