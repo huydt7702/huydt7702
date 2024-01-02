@@ -1,4 +1,4 @@
-<img alt="Intro" width="100%" src="https://images6.fanpop.com/image/photos/42900000/-Zenitsu-Agatsuma-Demon-Slayer-kimetsu-no-yaiba-anime-42961344-500-281.gif">
+<img alt="Intro" width="100%" src="https://aniyuki.com/wp-content/uploads/2022/01/aniyuki-zenitsu-agatsuma-16.gif">
 
 <h1 align="center">Hi 👋, I'm Nguyen Van Huy</h1>
 <h3 align="center">A passionate Frontend Developer from Vietnam</h3>
