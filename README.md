@@ -1,4 +1,4 @@
-<img alt="Intro" width="100%" src="https://static.wikia.nocookie.net/kimetsunoyaiba/images/9/9b/Zenitsu_using_Thunderclap_and_Flash_on_Tongue_Demon.gif/revision/latest?cb=20191017034739&path-prefix=vi">
+<img alt="Intro" width="100%" src="https://static.zerochan.net/Kimetsu.no.Yaiba%3A.Katanakaji.no.Sato-hen.full.3963834.gif">
 
 <h1 align="center">Hi 👋, I'm Nguyen Van Huy</h1>
 <h3 align="center">A passionate Frontend Developer from Vietnam</h3>
