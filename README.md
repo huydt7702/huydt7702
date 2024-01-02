@@ -1,4 +1,4 @@
-<img alt="Intro" width="100%" src="https://i.redd.it/which-scene-s-from-season-3-had-the-best-ost-s-in-your-v0-ml5kqj7y29lb1.gif?width=498&auto=webp&s=312172293e6e1bf46fd023a17c9955e23e039383">
+<img alt="Intro" width="100%" src="https://steamuserimages-a.akamaihd.net/ugc/780728477810464621/3089CB5BC3609D0CE3B5F290E1A42EB6C824851F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <h1 align="center">Hi 👋, I'm Nguyen Van Huy</h1>
 <h3 align="center">A passionate Frontend Developer from Vietnam</h3>
