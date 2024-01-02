@@ -1,4 +1,4 @@
-<img alt="Intro" width="100%" src="https://steamuserimages-a.akamaihd.net/ugc/780728477810464621/3089CB5BC3609D0CE3B5F290E1A42EB6C824851F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img alt="Intro" width="100%" src="https://img.wattpad.com/171982b525bc52dda113e3f7685737d2b1306075/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f4963366b46545f475443625243413d3d2d313137373833353937322e313663393266396130666161356337643432383036313734393431362e676966">
 
 <h1 align="center">Hi 👋, I'm Nguyen Van Huy</h1>
 <h3 align="center">A passionate Frontend Developer from Vietnam</h3>
