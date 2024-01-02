@@ -1,4 +1,4 @@
-<img alt="Intro" width="100%" src="https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/1/18/Mitsuri_deflects_the_dragons.gif/revision/latest?cb=20230605070236">
+<img alt="Intro" width="100%" src="https://i.redd.it/which-scene-s-from-season-3-had-the-best-ost-s-in-your-v0-ml5kqj7y29lb1.gif?width=498&auto=webp&s=312172293e6e1bf46fd023a17c9955e23e039383">
 
 <h1 align="center">Hi 👋, I'm Nguyen Van Huy</h1>
 <h3 align="center">A passionate Frontend Developer from Vietnam</h3>
